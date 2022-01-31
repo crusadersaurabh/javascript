@@ -100,3 +100,18 @@
 // console.log(myFriends);
 // var myNewFriends = myFriends.splice(0, 0, "lemon");
 // console.log(myFriends);
+
+// #TODO: DATE & TIME METHOD (Set & get method)
+
+// let dat = new Date();
+// console.log(dat.getDay());
+
+// #TODO: This function & Object
+
+// const obj = {
+//   myName: "SK",
+//   func() {
+//     console.log(this.myName);
+//   },
+// };
+// obj.func();
